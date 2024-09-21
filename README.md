@@ -7,4 +7,4 @@ In this readme file I include steps to reproduce and run the node.js application
 - run npm install (for installing all dependecies and packages)
 
 ## Demo Video
-- [Demo Recording](https://vimeo.com/1011501929)
+- [Demo Recording](https://vimeo.com/1011511717)
